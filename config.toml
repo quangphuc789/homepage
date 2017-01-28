@@ -5,7 +5,7 @@ theme = "dimension"
 
 [params]
   title = "Timothy Quang Phuc Nguyen"
-  description = 'A LIFE TRAVELLER'
+  description = "Programmer. Educator. Life Traveller."
   copyright = "quangphuc789"
 
 [[params.social]]
@@ -14,16 +14,21 @@ theme = "dimension"
   link = "https://www.youtube.com/channel/UCDujncETm-8rhhHOXkGomNg"
 
 [[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "https://www.facebook.com/quangphuc.nguyen"
-
-[[params.social]]
   medium = "quora"
   icon = "quora"
   link = "https://www.quora.com/profile/Timothy-Quang-Phuc-Nguyen"
 
 [[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://sg.linkedin.com/in/quangphuc789"
+
+[[params.social]]
   medium = "github"
   icon = "github"
   link = "https://github.com/quangphuc789"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/quangphuc.nguyen"
