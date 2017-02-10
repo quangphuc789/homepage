@@ -1,11 +1,11 @@
 languageCode = "en-us"
 title = "Timothy Quang Phuc Nguyen"
-baseurl = "http://quangphuc789.github.io/"
+baseurl = "http://www.quangphuc789.com/"
 theme = "dimension"
 
 [params]
   title = "Timothy Quang Phuc Nguyen"
-  description = "A Life Traveller"
+  description = "Life Traveller"
   copyright = "quangphuc789"
 
 [[params.social]]
