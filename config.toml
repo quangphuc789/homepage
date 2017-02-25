@@ -1,34 +1,61 @@
+# Site settings
 languageCode = "en-us"
 title = "Timothy Quang Phuc Nguyen"
 baseurl = "http://quangphuc789.com/"
-theme = "dimension"
+theme = "hugo-smpl-theme"
+googleAnalytics = "UA-91578865-1"
 
 [params]
-  title = "Timothy Quang Phuc Nguyen"
-  description = "Life Traveller."
-  copyright = "quangphuc789"
+title = "Timothy Quang Phuc Nguyen"
+name = "Timothy Quang Phuc Nguyen"
+copyright = "quangphuc789"
+
+# Background
+[params.background]
+# image = "https://dl.dropboxusercontent.com/s/cy3bduakvienrcw/icon.jpg?dl=0"
+
+# Enable and set background fade speed
+[params.background.fade]
+enable = true
+speed = 500
+
+# Logo section
+[params.logo]
+enable = true
+image = "https://dl.dropboxusercontent.com/s/fixa3rowds9iv0x/icon.jpg?dl=0"
+alt = "text"
+width = "100"
+
+# Header section
+[params.header]
+enable = true
+title = "Timothy Quang Phuc Nguyen<br><h3>Software Engineer - Life Traveller</h3>"
+
+# Social icons sefa-ction
+[params.social_icons]
+enable = true
 
 [[params.social]]
-  medium = "youtube"
-  icon = "youtube"
-  link = "https://www.youtube.com/channel/UCDujncETm-8rhhHOXkGomNg"
+title = "Blog"
+icon = "fa-pencil"
+link = "http://quangphuc789.com/blog"
 
 [[params.social]]
-  medium = "quora"
-  icon = "quora"
-  link = "https://www.quora.com/profile/Timothy-Quang-Phuc-Nguyen"
+title = "github"
+icon = "fa-github"
+link = "https://github.com/quangphuc789"
 
 [[params.social]]
-  medium = "linkedin"
-  icon = "linkedin"
-  link = "https://sg.linkedin.com/in/quangphuc789"
+title = "Email"
+icon = "fa-envelope"
+link = "mailto:quangphuc789@gmail.com"
 
 [[params.social]]
-  medium = "github"
-  icon = "github"
-  link = "https://github.com/quangphuc789"
+title = "youtube"
+icon = "fa-youtube"
+link = "https://www.youtube.com/channel/UCDujncETm-8rhhHOXkGomNg"
 
 [[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "https://www.facebook.com/quangphuc.nguyen"
+title = "linkedin"
+icon = "fa-linkedin"
+link = "https://sg.linkedin.com/in/quangphuc789"
