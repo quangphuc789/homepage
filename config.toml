@@ -5,7 +5,7 @@ theme = "dimension"
 
 [params]
   title = "Timothy Quang Phuc Nguyen"
-  description = "Life Traveller"
+  description = "Life Traveller."
   copyright = "quangphuc789"
 
 [[params.social]]
