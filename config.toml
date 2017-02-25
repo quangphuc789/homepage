@@ -29,7 +29,7 @@ width = "100"
 # Header section
 [params.header]
 enable = true
-title = "Timothy Quang Phuc Nguyen<br><h3>Software Engineer - Life Traveller</h3>"
+title = "<h2>Timothy Quang Phuc Nguyen</h2><br><h3>Software Engineer - Pianist - Life Traveller</h3>"
 
 # Social icons sefa-ction
 [params.social_icons]
