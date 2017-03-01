@@ -38,7 +38,7 @@ enable = true
 [[params.social]]
 title = "Blog"
 icon = "fa-pencil"
-link = "http://quangphuc789.com/blog"
+link = "http://quangphuc789.github.io/blog"
 
 [[params.social]]
 title = "github"
