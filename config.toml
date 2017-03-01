@@ -23,7 +23,6 @@ speed = 500
 [params.logo]
 enable = true
 image = "https://dl.dropboxusercontent.com/s/fixa3rowds9iv0x/icon.jpg?dl=0"
-alt = "text"
 width = "100"
 
 # Header section
