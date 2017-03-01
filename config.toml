@@ -1,7 +1,7 @@
 # Site settings
 languageCode = "en-us"
 title = "Timothy Quang Phuc Nguyen"
-baseurl = "http://quangphuc789.com/"
+baseurl = "http://quangphuc789.github.io/"
 theme = "hugo-smpl-theme"
 googleAnalytics = "UA-91578865-1"
 
